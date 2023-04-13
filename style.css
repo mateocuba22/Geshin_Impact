@@ -1,0 +1,58 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(https://defeatzone.com/wp-content/uploads/2021/04/Vazamentos-da-Regiao-de-Inazuma-de-Genshin-Impact.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.logo {
+    width: 262px;
+    display: flex;
+    text-align: center;
+}
+
+.fondo {
+    width: 800px;
+    height: 1850px;
+    background-color: azure;
+    border-radius: 5px;
+    box-shadow: 0 0 10px;
+}
+
+.fondo_2 {
+    margin: 15px 40px 0;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gif {
+    width: 156px;
+    position: absolute;
+    top: 17px;
+    left: 949px;
+}
+
+.sub {
+    color: #0f2152b5;
+    box-shadow: 0 0 7px;
+    border-radius: 11px;
+    border: solid 0;
+    display: flex;
+    width: 200px;
+    text-align: center;
+    flex-direction: column;
+    height: 36px;
+    justify-content: center;
+}
+
+p {
+    font-size: 18px;
+}
